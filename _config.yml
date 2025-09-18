@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "이세진 Sejin Lee"
+  pronouns         : "He"  
+  bio              : "모두가 손쉬운 코딩을 할수있을 때까지"
+  location         : "South Korea/Gumi"
+  employer         : "Gyeonggu High School"
+  uri              : "not yet :)"
+  email            : "heedink52@naver.com" 
 
   # Academic websites
   academia         : # URL
@@ -71,7 +71,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "https://x.com/mugcupdev"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
