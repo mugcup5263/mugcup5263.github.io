@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "Ko-ko"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "이세진"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "이세진 Sejin Lee"
-  pronouns         : "He"  
+  pronouns         : "He/Him"  
   bio              : "모두가 손쉬운 코딩을 할수있을 때까지"
   location         : "South Korea/Gumi"
   employer         : "Gyeonggu High School"
