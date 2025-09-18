@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/Gp3yjrdbQAA_UhE.png"
+  avatar           : "Gp3yjrdbQAA_UhE.png"
   name             : "이세진 Sejin Lee"
   pronouns         : "He/Him"  
   bio              : "모두가 손쉬운 코딩을 할수있을 때까지"
