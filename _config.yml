@@ -54,14 +54,14 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "___mugcup___"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -73,11 +73,9 @@ author:
   tumblr           : # Username
   twitter          : "https://x.com/mugcupdev"
   vine             : # Username
-  weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
