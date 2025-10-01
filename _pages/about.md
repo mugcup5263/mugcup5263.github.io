@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "모두가 손쉽게 코딩을 할수 있도록 To make it easier for everyone to code"
+title: "모두가 손쉽게 코딩을 할수 있도록 
+To make it easier for everyone to code"
 author_profile: true
 redirect_from: 
   - /about/
